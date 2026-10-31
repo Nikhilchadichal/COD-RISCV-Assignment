@@ -1,4 +1,4 @@
-module IF_stage (
+module if_stage (
     input  logic [31:0] pc_signed_offset,
     input  logic        clk,
     input  logic        reset,
